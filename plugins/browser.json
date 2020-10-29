@@ -1,0 +1,40 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.phonegap.mi"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.phonegap.mi"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.phonegap.mi"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.phonegap.mi"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.phonegap.mi"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.phonegap.mi"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.phonegap.mi"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.phonegap.mi"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.phonegap.mi"
+        }
+    }
+}
